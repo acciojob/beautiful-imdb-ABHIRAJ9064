@@ -1,5 +1,17 @@
+.card{
 position: sticky;
 top: 0px;
 width: 100vw;
 text-algin:
 front-size: 17px;
+justify-content: centre;
+}
+.card_image > img {
+	width: 100%;
+	height: 100%
+}
+.card_description {
+	front-size: 16px;
+	color: #444;
+	margin-top: 10px;
+}
