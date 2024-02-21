@@ -1,17 +1,14 @@
 .card{
-position: sticky;
-top: 0px;
-width: 100vw;
-text-algin:
-front-size: 17px;
-justify-content: centre;
 }
-.card_image > img {
+.card_image {
 	width: 100%;
-	height: 100%
+	height: 100%;
+	opacity: 0.6;
 }
 .card_description {
-	front-size: 16px;
-	color: #444;
-	margin-top: 10px;
+	position: stricky;
+	top: 0px;
+	width: 100vw;
+	text-algin: centre;
+	front-size: 24px;
 }
